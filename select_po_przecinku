@@ -1,0 +1,5 @@
+SELECT
+bkklient_id, 
+listagg(bkklientkontakt_email, ' ; ') WITHIN GROUP (ORDER BY bkklient_id) AS email
+FROM bkklientkontakt
+GROUP BY bkklient_id 
