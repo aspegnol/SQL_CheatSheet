@@ -1,2 +1,2 @@
 # sql
-Moja ściągawka z SQL-a (zapytania na Oracle'u)
+Moja ściągawka z SQL-a (zapytania w Oracle'u)
