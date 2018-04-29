@@ -1,2 +1,2 @@
 # sql
-Moja ściągawka z SQL-a (zapytania w Oracle'u)
+my own cheat sheet to work better on Oracle
